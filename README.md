@@ -2,7 +2,7 @@
 
 **Languages**: C, Python, Go, Java, C#  
 **Database stuff**: PostgreSQL, MS SQL Server  
-**Operation System**: Linux  
+**Operation System**: Linux, macOS
 **Hobbies**: Hiking, cycling, bouldering  
 
 ### Useful gists
